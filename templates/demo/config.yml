@@ -2,7 +2,7 @@ name: Catalog HTTPd
 description: |
   Demo httpd with load balance
 version: 0.1
-category: Demo
+category: HTTPd
 maintainer: windyboy
 license:MIT
 
